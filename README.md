@@ -1,31 +1,49 @@
-# Cosmic Heat
+# 🚀 Cosmic Heat
 
-Just a 2D space shooter from a neighboring parallel world. It was written using Python and Pygame. To control the player, you can use either the keyboard or a joystick. The game features a variety of cool bosses and enemies that will challenge your skills and keep you engaged. Get ready to blast your way through waves of enemy ships and take on epic boss battles in this exciting space adventure!
+**Cosmic Heat** is a 2D space shooter from a neighboring parallel world 🌌.  
+Built with **Python** and **Pygame**, players blast through waves of enemy ships, dodge meteors, and face epic boss battles in deep space. Play using keyboard or joystick — your reflexes are your best ally.
 
-## Game launch
+---
 
-- Clone the repository: `git clone [https://github.com/Dave-YP/cosmic-heat-pygame.git](https://github.com/Dave-YP/cosmic-heat-pygame.git)`
-- Change directory: `cd cosmic-heat-pygame`
-- Create a virtual environment: `python -m venv env`
-- Activate the virtual environment: `source env/Scripts/activate`
-- Install requirements: `pip install -r requirements.txt`
-- Run the game: `python main.py`
+## 🛠️ Created By
 
-## Controls
+- 👨‍🚀 [Parth Vora](https://github.com/Parthvora5)
+- 👨‍🚀 [Dhruvin Kheni](https://github.com/Khenidhruvin2001)
 
-- shoot - SPACE
-- move - arrows
-- pause - P
-- exit - Esc
+---
 
-## Gameplay
+## 🚀 Game Launch Instructions
 
-[![Cosmic Heat](https://img.youtube.com/vi/ghcX5IXoPLY/0.jpg)](https://www.youtube.com/watch?v=ghcX5IXoPLY "Cosmic Heat")
+``bash
+# 1. Clone this repo
+git clone https://github.com/Parthvora5/my-first-game.git
 
-## Images
+# 2. Navigate into the directory
+cd my-first-game
 
-![alt text](images/l.png "Cosmic Heat")
-![alt text](images/g0.png "Gameplay")
-![alt text](images/g1.png "Gameplay")
-![alt text](images/g2.png "Gameplay")
-![alt text](images/g3.png "Gameplay")
+# 3. Create a virtual environment
+python -m venv env
+
+# 4. Activate the environment (Windows)
+env\Scripts\activate
+
+# 5. Install dependencies
+pip install -r requirements.txt
+
+# 6. Launch the game
+python main.py
+
+🎮 Controls
+Action	Key
+Move	Arrow keys
+Shoot	SPACE
+Pause	P
+Exit	ESC
+🖼️ Gameplay
+
+
+🖌️ Screenshots
+
+
+🧑‍💻 Contributors
+<table> <tr> <td align="center"><a href="https://github.com/Parthvora5"><img src="https://avatars.githubusercontent.com/u/Parthvora5?v=4" width="80"/><br /><sub><b>Parth Vora</b></sub></a></td> <td align="center"><a href="https://github.com/Khenidhruvin2001"><img src="https://avatars.githubusercontent.com/u/Khenidhruvin2001?v=4" width="80"/><br /><sub><b>Dhruvin Kheni</b></sub></a></td> </tr> </table>
