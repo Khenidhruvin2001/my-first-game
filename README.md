@@ -33,19 +33,33 @@ pip install -r requirements.txt
 # 6. Run the game
 python main.py
 
-🎮 Controls
-🚀 Move: Arrow keys
+## Game launch
 
-🔫 Shoot: SPACE
+- Clone the repository: `git clone [https://github.com/Dave-YP/cosmic-heat-pygame.git](https://github.com/Dave-YP/cosmic-heat-pygame.git)`
+- Change directory: `cd cosmic-heat-pygame`
+- Create a virtual environment: `python -m venv env`
+- Activate the virtual environment: `source env/Scripts/activate`
+- Install requirements: `pip install -r requirements.txt`
+- Run the game: `python main.py`
 
-⏸️ Pause: P
+## Controls
 
-❌ Exit: ESC
+- shoot - SPACE
+- move - arrows
+- pause - P
+- exit - Esc
 
-🎥 Gameplay
+## Gameplay
 
+[![Cosmic Heat](https://img.youtube.com/vi/ghcX5IXoPLY/0.jpg)](https://www.youtube.com/watch?v=ghcX5IXoPLY "Cosmic Heat")
 
-🖼️ Screenshots
+## Images
+
+![alt text](images/l.png "Cosmic Heat")
+![alt text](images/g0.png "Gameplay")
+![alt text](images/g1.png "Gameplay")
+![alt text](images/g2.png "Gameplay")
+![alt text](images/g3.png "Gameplay")
 
 
 ## 🧑‍💻 Contributors
