@@ -1,7 +1,7 @@
 # 🚀 Cosmic Heat
 
 **Cosmic Heat** is a 2D space shooter from a neighboring parallel world 🌌.  
-Built with **Python** and **Pygame**, players blast through waves of enemy ships, dodge meteors, and face epic boss battles in deep space. Play using keyboard or joystick — your reflexes are your best ally.
+Written in **Python** using the **Pygame** library, the game challenges players to navigate a spaceship through hostile space, defeating enemies and epic bosses. Play using keyboard or joystick — your reflexes are your best ally!
 
 ---
 
@@ -12,37 +12,40 @@ Built with **Python** and **Pygame**, players blast through waves of enemy ships
 
 ---
 
-## 🚀 Game Launch Instructions
+## 🚀 Game Launch
 
 ``bash
-# 1. Clone this repo
+# 1. Clone the repository
 git clone https://github.com/Parthvora5/my-first-game.git
 
-# 2. Navigate into the directory
+# 2. Change directory
 cd my-first-game
 
 # 3. Create a virtual environment
 python -m venv env
 
-# 4. Activate the environment (Windows)
+# 4. Activate the virtual environment (Windows)
 env\Scripts\activate
 
-# 5. Install dependencies
+# 5. Install requirements
 pip install -r requirements.txt
 
-# 6. Launch the game
+# 6. Run the game
 python main.py
 
 🎮 Controls
-Action	Key
-Move	Arrow keys
-Shoot	SPACE
-Pause	P
-Exit	ESC
-🖼️ Gameplay
+🚀 Move: Arrow keys
+
+🔫 Shoot: SPACE
+
+⏸️ Pause: P
+
+❌ Exit: ESC
+
+🎥 Gameplay
 
 
-🖌️ Screenshots
+🖼️ Screenshots
 
 
 🧑‍💻 Contributors
