@@ -48,5 +48,22 @@ python main.py
 🖼️ Screenshots
 
 
-🧑‍💻 Contributors
-<table> <tr> <td align="center"><a href="https://github.com/Parthvora5"><img src="https://avatars.githubusercontent.com/u/Parthvora5?v=4" width="80"/><br /><sub><b>Parth Vora</b></sub></a></td> <td align="center"><a href="https://github.com/Khenidhruvin2001"><img src="https://avatars.githubusercontent.com/u/Khenidhruvin2001?v=4" width="80"/><br /><sub><b>Dhruvin Kheni</b></sub></a></td> </tr> </table>
+## 🧑‍💻 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Parthvora5">
+        <img src="https://github.com/Parthvora5.png" width="80px;" alt="Parth Vora"/>
+        <br /><sub><b>Parth Vora</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Khenidhruvin2001">
+        <img src="https://github.com/Khenidhruvin2001.png" width="80px;" alt="Dhruvin Kheni"/>
+        <br /><sub><b>Dhruvin Kheni</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
